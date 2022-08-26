@@ -9,7 +9,7 @@ setup(
   description = 'Get random sentences',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
-  url = 'https://github.com/nayakrujul/default-class',
+  url = 'https://github.com/nayakrujul/talk-thon',
   download_url = 'https://github.com/nayakrujul/talk-thon/archive/refs/tags/v_01.tar.gz',
   keywords = ['talk', 'random', 'sentences'],
   install_requires=[
