@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 long_description = 'Get random sentences'
 
 setup(
-  name = 'talk-thon',
+  name = 'talkthon',
   version = '0.1',
   license='Apache',
   description = 'Get random sentences',
