@@ -4,7 +4,7 @@ long_description = 'Get random sentences'
 
 setup(
   name = 'talkthon',
-  version = '0.2',
+  version = '1.0',
   license='Apache',
   description = 'Get random sentences',
   author = 'Rujul Nayak',
