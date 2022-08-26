@@ -1,8 +1,8 @@
 from random import choice
 
-with open('nouns.txt') as n, \
-    open('verbs.txt') as v, \
-    open('adjectives.txt') as a:
+with open('talkthon/nouns.txt') as n, \
+    open('talkthon/verbs.txt') as v, \
+    open('talkthon/adjectives.txt') as a:
         nouns = n.read().splitlines()
         verbs = v.read().splitlines()
         adjs = a.read().splitlines()
