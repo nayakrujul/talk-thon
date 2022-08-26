@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+talkthon/__init__.py
+talkthon/talkthon.py
+talkthon.egg-info/PKG-INFO
+talkthon.egg-info/SOURCES.txt
+talkthon.egg-info/dependency_links.txt
+talkthon.egg-info/top_level.txt
