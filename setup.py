@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
-long_description = 'Default classes - read the docs at https://www.github.com/nayakrujul/default-class'
+long_description = 'Get random sentences'
 
 setup(
-  name = 'default-class',
+  name = 'talk-thon',
   version = '0.1',
   license='Apache',
-  description = 'Default classes',
+  description = 'Get random sentences',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
   url = 'https://github.com/nayakrujul/default-class',
   download_url = 'https://github.com/nayakrujul/talk-thon/archive/refs/tags/v_01.tar.gz',
-  keywords = ['class', 'default'],
+  keywords = ['talk', 'random', 'sentences'],
   install_requires=[
       ],
   classifiers=[
