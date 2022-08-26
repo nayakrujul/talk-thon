@@ -4,13 +4,13 @@ long_description = 'Default classes - read the docs at https://www.github.com/na
 
 setup(
   name = 'default-class',
-  version = '1.1',
+  version = '0.1',
   license='Apache',
   description = 'Default classes',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
   url = 'https://github.com/nayakrujul/default-class',
-  download_url = 'https://github.com/nayakrujul/default-class/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/nayakrujul/talk-thon/archive/refs/tags/v_01.tar.gz',
   keywords = ['class', 'default'],
   install_requires=[
       ],
